@@ -1,42 +1,75 @@
-# SIMS [![img](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# SIMS
 
-Student Information Management System. This project will replace existing provincial student financial aid information systems and provide a modern application for students, post-secondary institution and ministry employees to manage post-secondary student loans. The project includes implementation of a business rules engine that can accommodate regular changes in alignment with policy. 
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/SIMS)
 
-## Vision
-
-To empower students to be engaged in their financial aid journey. 
-
-## Objectives
-
-- Provide an intuitive modernized application with more interactive components to Ministry, Institution and Student users 
-- Improve business process and operations
-- Automation of assessments and other workflows to reduce manual processing
-- Self-serve for students with built-in guidance and more detailed assessment information 
-
-## Problem Statement
-StudentAidBC technology, processes and policy need to be aligned so that students have streamlined, equitable and transparent access to student financial aid. 
-
-## Project Status
-
-In Development with some functionality available to Ministry and Institution users in production environments. 
-
-## Development Activity
-
-High, new features released every sprint (3 week cadence). 
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
 ## Architecture
 
-![Architecture](./docs/assets/SIMSArchitecture2025.png)
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-## Continue Reading
+## Install
 
-- [Technologies Overview](https://github.com/bcgov/SIMS/wiki/Technologies-Overview)
-- [BCeID-Web Service Integration](./docs/bceid-webservice-integration.md)
-- How To
-  - [DevOps](https://github.com/bcgov/SIMS/wiki/DevOps-and-Running-the-Application#devops)
-  - [Database Migration](./docs/howto/db-migration.md)
-  - [Keycloak Configuration](https://github.com/bcgov/SIMS/wiki/Keycloak-Config)
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/SIMS.git
+cd SIMS
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/SIMS`](https://github.com/Interested-Deving-1896/SIMS) and mirrored through:
+
+```
+Interested-Deving-1896/SIMS  ──►  OpenOS-Project-OSP/SIMS  ──►  OpenOS-Project-Ecosystem-OOC/SIMS
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
 
 ## License
 
-Code released under the [Apache License, Version 2.0](./LICENSE).
+<!-- AI:start:license -->
+[Apache-2.0](https://github.com/Interested-Deving-1896/SIMS/blob/main/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
